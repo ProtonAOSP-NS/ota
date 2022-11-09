@@ -1,2 +1,11 @@
+13.1.0:
+* November Security Patch
+* Face Unlock
+* 3 Finger Screenshot
+* DT2S
+* One Finger Quick Settings Pull
+* Adaptive Playback
+* Add More QS Tiles
+
 13.0.0:
 * Initial build
