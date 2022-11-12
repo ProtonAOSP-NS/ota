@@ -6,6 +6,8 @@
 * One Finger Quick Settings Pull
 * Adaptive Playback
 * Add More QS Tiles
+* Volume Button Skip Track
+* Switch For Disabling Fingerprint Ripple Animation
 
 13.0.0:
 * Initial build
